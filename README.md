@@ -19,7 +19,3 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 ## Deployed
 
 https://whispering-brook-92339.herokuapp.com/
-
-Curtis Kilgore
-https://api.github.com/users/CurtisKil
-https://avatars1.githubusercontent.com/u/58924563?v=4
