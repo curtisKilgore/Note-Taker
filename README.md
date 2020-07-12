@@ -10,7 +10,7 @@ backend and can save, retrieve, and delete note data from a JSON file.
 
 ## Example Usage
 
-![](./example.gif)
+![](./noteTaker.gif)
 
 ## User Story
 
