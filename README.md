@@ -8,6 +8,10 @@ This application can be used to write, save, and delete notes. It uses an expres
 
 backend and can save, retrieve, and delete note data from a JSON file.
 
+## Example Usage
+
+![](./example.gif)
+
 ## User Story
 
 AS A user, I want to be able to write and save notes
